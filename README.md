@@ -3,7 +3,6 @@
 ## How to use
 
 1.
-
 ```
 sudo apt-get install libv4l-dev libudev-dev ros-<ROS-DISTRO>-rtabmap*
 ```
