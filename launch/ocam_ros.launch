@@ -9,6 +9,6 @@
     <param name="wb_red"        value="160"/>
     <param name="auto_exposure" value="false"/>
     <param name="show_image"    value="false"/>
-    <param name="dev_path"      value="/dev/video0"/>
+    <param name="dev_path"      value="/dev/ocam_front"/>
   </node>
 </launch>
